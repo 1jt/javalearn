@@ -16,6 +16,6 @@ public class Demo04 {
         System.out.println("请输入小数：");
         double money = scanner.nextDouble();
         System.out.println("整数：" + age + "\n小数：" + money);
-        // 分支上改改
+        // 分支上改
     }
 }
