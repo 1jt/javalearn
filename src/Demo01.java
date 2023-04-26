@@ -26,6 +26,7 @@ public class Demo01 {
         age = 22;
         System.out.println("年龄:" + age);//shift+alt+上下箭头，上移下移代码行
         System.out.println("git");//shift+alt+上下箭头，上移下移代码行
+        System.out.println("宿舍");//shift+alt+上下箭头，上移下移代码行
 
     }
 }
