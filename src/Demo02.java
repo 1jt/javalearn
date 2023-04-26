@@ -1,7 +1,7 @@
 public class Demo02 {
     public static void main(String[] args) {
         //常用数据类型
-        int i = 10;//整数
+        int i = 10;//整
         double d = 3.14;//小数
         char c = '中';//字符
         String s = "中国";//字符串
