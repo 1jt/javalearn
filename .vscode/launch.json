@@ -1,0 +1,231 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Demo01",
+            "request": "launch",
+            "mainClass": "Demo01",
+            "projectName": "javalearn_35f689c"
+        },
+        {
+            "type": "java",
+            "name": "Demo02",
+            "request": "launch",
+            "mainClass": "Demo02",
+            "projectName": "javalearn_35f689c"
+        },
+        {
+            "type": "java",
+            "name": "Demo03",
+            "request": "launch",
+            "mainClass": "Demo03",
+            "projectName": "javalearn_35f689c"
+        },
+        {
+            "type": "java",
+            "name": "Demo04",
+            "request": "launch",
+            "mainClass": "Demo04",
+            "projectName": "javalearn_35f689c"
+        },
+        {
+            "type": "java",
+            "name": "Demo05",
+            "request": "launch",
+            "mainClass": "Demo05",
+            "projectName": "javalearn_35f689c"
+        },
+        {
+            "type": "java",
+            "name": "Demo06",
+            "request": "launch",
+            "mainClass": "Demo06",
+            "projectName": "javalearn_35f689c"
+        },
+        {
+            "type": "java",
+            "name": "Demo07",
+            "request": "launch",
+            "mainClass": "Demo07",
+            "projectName": "javalearn_35f689c"
+        },
+        {
+            "type": "java",
+            "name": "Demo08",
+            "request": "launch",
+            "mainClass": "Demo08",
+            "projectName": "javalearn_35f689c"
+        },
+        {
+            "type": "java",
+            "name": "Demo09",
+            "request": "launch",
+            "mainClass": "Demo09",
+            "projectName": "javalearn_35f689c"
+        },
+        {
+            "type": "java",
+            "name": "Demo10",
+            "request": "launch",
+            "mainClass": "Demo10",
+            "projectName": "javalearn_35f689c"
+        },
+        {
+            "type": "java",
+            "name": "Demo11",
+            "request": "launch",
+            "mainClass": "Demo11",
+            "projectName": "javalearn_35f689c"
+        },
+        {
+            "type": "java",
+            "name": "Demo12",
+            "request": "launch",
+            "mainClass": "Demo12",
+            "projectName": "javalearn_35f689c"
+        },
+        {
+            "type": "java",
+            "name": "Demo13",
+            "request": "launch",
+            "mainClass": "Demo13",
+            "projectName": "javalearn_35f689c"
+        },
+        {
+            "type": "java",
+            "name": "Demo14",
+            "request": "launch",
+            "mainClass": "Demo14",
+            "projectName": "javalearn_35f689c"
+        },
+        {
+            "type": "java",
+            "name": "Demo15",
+            "request": "launch",
+            "mainClass": "Demo15",
+            "projectName": "javalearn_35f689c"
+        },
+        {
+            "type": "java",
+            "name": "Demo16",
+            "request": "launch",
+            "mainClass": "Demo16",
+            "projectName": "javalearn_35f689c"
+        },
+        {
+            "type": "java",
+            "name": "Demo17",
+            "request": "launch",
+            "mainClass": "Demo17",
+            "projectName": "javalearn_35f689c"
+        },
+        {
+            "type": "java",
+            "name": "Demo18",
+            "request": "launch",
+            "mainClass": "Demo18",
+            "projectName": "javalearn_35f689c"
+        },
+        {
+            "type": "java",
+            "name": "Demo19",
+            "request": "launch",
+            "mainClass": "Demo19",
+            "projectName": "javalearn_35f689c"
+        },
+        {
+            "type": "java",
+            "name": "Demo20",
+            "request": "launch",
+            "mainClass": "Demo20",
+            "projectName": "javalearn_35f689c"
+        },
+        {
+            "type": "java",
+            "name": "Demo21",
+            "request": "launch",
+            "mainClass": "Demo21",
+            "projectName": "javalearn_35f689c"
+        },
+        {
+            "type": "java",
+            "name": "Demo22",
+            "request": "launch",
+            "mainClass": "Demo22",
+            "projectName": "javalearn_35f689c"
+        },
+        {
+            "type": "java",
+            "name": "Demo23",
+            "request": "launch",
+            "mainClass": "Demo23",
+            "projectName": "javalearn_35f689c"
+        },
+        {
+            "type": "java",
+            "name": "Demo24",
+            "request": "launch",
+            "mainClass": "Demo24",
+            "projectName": "javalearn_35f689c"
+        },
+        {
+            "type": "java",
+            "name": "Demo25",
+            "request": "launch",
+            "mainClass": "Demo25",
+            "projectName": "javalearn_35f689c"
+        },
+        {
+            "type": "java",
+            "name": "Demo26",
+            "request": "launch",
+            "mainClass": "Demo26",
+            "projectName": "javalearn_35f689c"
+        },
+        {
+            "type": "java",
+            "name": "Demo28",
+            "request": "launch",
+            "mainClass": "Demo28",
+            "projectName": "javalearn_35f689c"
+        },
+        {
+            "type": "java",
+            "name": "Demo29",
+            "request": "launch",
+            "mainClass": "Demo29",
+            "projectName": "javalearn_35f689c"
+        },
+        {
+            "type": "java",
+            "name": "Demo30",
+            "request": "launch",
+            "mainClass": "Demo30",
+            "projectName": "javalearn_35f689c"
+        },
+        {
+            "type": "java",
+            "name": "Demo32",
+            "request": "launch",
+            "mainClass": "Demo32",
+            "projectName": "javalearn_35f689c"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "javalearn_35f689c"
+        }
+    ]
+}
